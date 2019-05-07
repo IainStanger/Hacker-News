@@ -3,7 +3,7 @@
 }
 
 .header {
-  background-color: #111B1D;
+  background-color: #0D1215;
   background-image: url("hackernews.png");
   background-size: 400px 300px;
   background-repeat: no-repeat;
@@ -18,7 +18,7 @@
 }
 
 .button {
-  background-color: #111B1D; 
+  background-color: #0D1215; 
   border: none;
   color: white;
   padding: 15px 32px;
