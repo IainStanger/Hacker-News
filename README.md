@@ -7,7 +7,7 @@ To run this app:
     (assuming you have cloned/downloaded the repository from https://github.com/IainStanger/Hacker-News.git)
 
 ### Step 1
-    run 'npm install' via the command line or through and IDE with a terminal such as 'Visual Studio Code', in the local directory of the repo - this should install the required dependencies into a 'node_modules' folder.
+    run 'npm install' via the command line or through an IDE with a terminal such as 'Visual Studio Code', in the local directory of the repo - this should install the required dependencies into a 'node_modules' folder.
 
 ### Step 2
     run 'npm start' in the local directory of the repo - this will run the app in port 3000 on the localHost and be viewable in your browser (see below).
